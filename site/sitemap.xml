@@ -6,17 +6,37 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>http://network-pi.home/01-overview/</loc>
+         <lastmod>2023-08-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>http://network-pi.home/01-overview/network-architecture/</loc>
          <lastmod>2023-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://network-pi.home/02-home-automation/</loc>
+         <loc>http://network-pi.home/02-raspi-servers/</loc>
+         <lastmod>2023-08-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://network-pi.home/02-raspi-servers/homeassistant/</loc>
+         <lastmod>2023-08-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://network-pi.home/02-raspi-servers/network-pi/</loc>
          <lastmod>2023-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://network-pi.home/03-ubuntu-server/</loc>
+         <lastmod>2023-08-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://network-pi.home/03-ubuntu-server/data/</loc>
          <lastmod>2023-08-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
