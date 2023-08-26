@@ -2,7 +2,7 @@
 Documentation outlining the home network architecture. You can find the full site at [network-pi.home](http://network-pi.home).
 
 ## Table of Contents
-- [ATmega32u4-Dev](#ATmega32u4-Dev)
+- [Network-Docs](#network-docs)
   - [Table of Contents](#table-of-contents)
   - [About The Project](#about-the-project)
   - [Getting Started](#getting-started)
