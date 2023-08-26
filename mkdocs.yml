@@ -1,5 +1,7 @@
 site_name: Home Lab Documentation
 site_url: http://network-pi.home
+repo_url: https://github.com/shadmanhabib/network-docs
+repo_name: shadmanhabib/network-docs
 
 theme: 
   name: material

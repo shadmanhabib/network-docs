@@ -1,2 +1,5 @@
 # Ignore pipenv lock file
-*lock
+*.lock
+
+# Ignore ZIP files
+*.zip
