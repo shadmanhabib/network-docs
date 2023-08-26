@@ -1,0 +1,35 @@
+site_name: Home Lab Documentation
+site_url: http://network-pi.home
+
+theme: 
+  name: material
+  features:
+    - navigation.instant
+    - naviagtion.instant.prefetch
+    - navigation.sections
+    - navigation.indexes
+    #- navigation.expand
+    #- navigation.tabs
+    #- toc.follow
+    #- toc.integrate
+    - navigation.path
+    - search.suggest
+
+nav:
+  - 'index.md'
+  - 1. Overview:
+    - '01-overview/index.md'
+    - '01-overview/network-architecture.md'
+  - 2. Raspberry Pi's:
+    - '02-raspi-servers/index.md'
+    - Home Assistant: '02-raspi-servers/homeassistant.md'
+    - Network Pi: '02-raspi-servers/network-pi.md'
+  - 3. Ubuntu Server: 
+    - '03-ubuntu-server/index.md'
+    - Data and Storage: '03-ubuntu-server/data.md'
+    - Containers:
+      - Docker: '03-ubuntu-server/docker.md'
+      - Portainter: '03-ubuntu-server/portainer.md'
+      - MotionEye: '03-ubuntu-server/motioneye.md'
+      - Jellyfin: '03-ubuntu-server/jellyfin.md'
+      - Syncthing: '03-ubuntu-server/syncthing.md'
