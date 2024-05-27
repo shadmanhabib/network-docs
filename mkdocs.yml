@@ -26,6 +26,7 @@ nav:
     - '02-raspi-servers/index.md'
     - Home Assistant: '02-raspi-servers/homeassistant.md'
     - Network Pi: '02-raspi-servers/network-pi.md'
+    - Backup Pi: '02-raspi-servers/backup-pi.md'
   - 3. Ubuntu Server: 
     - '03-ubuntu-server/index.md'
     - Data and Storage: '03-ubuntu-server/data.md'
