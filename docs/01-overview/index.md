@@ -1,19 +1,16 @@
-# Welcome to MkDocs
+# Overview
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+The home lab is organised in a wall mounted network rack in the garage and is equipped with multiple Raspberry Pi devices. Each device is dedicated to specific functions such as home automation, network management, media streaming, and backup solutions. Additionally, an Ubuntu server powers essential applications like Jellyfin, Frigate, Paperless-ngx, and Syncthing.
 
-This site will contain an overview of the network architecture used at home. It will also serve as a reference for other pieces of information, future planning and etc. 
+## Key Features
 
-## Commands
+- **Network Architecture Overview:** Detailed breakdowns of the network setup and configurations for each Raspberry Pi.
+- **Reference Material:** Comprehensive guides on setting up and managing services like Home Assistant, Pi-hole, and more.
+- **Best Practices:** Recommendations for maintaining a secure and efficient home network.
+- **Tutorials:** Step-by-step instructions for integrating various home automation devices.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Applications Dashboard
 
-## Project layout
+The application dashboard collates links to all self hosted services running on the home network. It is configured using [Homer](https://github.com/bastienwirtz/homer) is available [here](https://www.shabib.app).
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+You will be required to login via Authelia to access the dashboard. Users on the local network can access the dashboard without requiring authentication at [http://network-pi.home:8080](http://network-pi.home:8080).
