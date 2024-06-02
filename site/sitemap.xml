@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://network-pi.home/</loc>
-         <lastmod>2024-05-27</lastmod>
+         <lastmod>2024-06-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://network-pi.home/01-overview/</loc>
-         <lastmod>2024-05-27</lastmod>
+         <lastmod>2024-06-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://network-pi.home/01-overview/network-architecture/</loc>
-         <lastmod>2024-05-27</lastmod>
+         <lastmod>2024-06-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://network-pi.home/02-raspi-servers/</loc>
-         <lastmod>2024-05-27</lastmod>
+         <lastmod>2024-06-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://network-pi.home/02-raspi-servers/backup-pi/</loc>
-         <lastmod>2024-05-27</lastmod>
+         <lastmod>2024-06-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://network-pi.home/02-raspi-servers/homeassistant/</loc>
-         <lastmod>2024-05-27</lastmod>
+         <lastmod>2024-06-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://network-pi.home/02-raspi-servers/network-pi/</loc>
-         <lastmod>2024-05-27</lastmod>
+         <lastmod>2024-06-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://network-pi.home/03-ubuntu-server/</loc>
-         <lastmod>2024-05-27</lastmod>
+         <lastmod>2024-06-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://network-pi.home/03-ubuntu-server/data/</loc>
-         <lastmod>2024-05-27</lastmod>
+         <lastmod>2024-06-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://network-pi.home/03-ubuntu-server/docker/</loc>
-         <lastmod>2024-05-27</lastmod>
+         <loc>http://network-pi.home/04-containers/</loc>
+         <lastmod>2024-06-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://network-pi.home/03-ubuntu-server/jellyfin/</loc>
-         <lastmod>2024-05-27</lastmod>
+         <loc>http://network-pi.home/04-containers/jellyfin/</loc>
+         <lastmod>2024-06-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://network-pi.home/03-ubuntu-server/motioneye/</loc>
-         <lastmod>2024-05-27</lastmod>
+         <loc>http://network-pi.home/04-containers/motioneye/</loc>
+         <lastmod>2024-06-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://network-pi.home/03-ubuntu-server/portainer/</loc>
-         <lastmod>2024-05-27</lastmod>
+         <loc>http://network-pi.home/04-containers/portainer/</loc>
+         <lastmod>2024-06-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://network-pi.home/03-ubuntu-server/syncthing/</loc>
-         <lastmod>2024-05-27</lastmod>
+         <loc>http://network-pi.home/04-containers/syncthing/</loc>
+         <lastmod>2024-06-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

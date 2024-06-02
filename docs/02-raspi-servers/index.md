@@ -1,6 +1,8 @@
-# Page Title
+# Raspberry Pi Servers
 
-Provide an overview of the topic of the page.
+A number of Raspberry Pi servers are running on the home network. They provide functionality such as authentication, VPN, web proxy, backup management and home automation. 
+
+Raspberry PI's are chosen to run these services in the home lab due to their low power consumption, compact size, and strong community support. When packaged with Docker and Portainer, they provide a flexible and scalable platform for managing these services.
 
 ## Installation
 
