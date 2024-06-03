@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>http://network-pi.home/</loc>
-         <lastmod>2024-06-02</lastmod>
+         <loc>http://network-docs.shadmanhabib.com/</loc>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://network-pi.home/01-overview/</loc>
-         <lastmod>2024-06-02</lastmod>
+         <loc>http://network-docs.shadmanhabib.com/01-overview/</loc>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://network-pi.home/01-overview/network-architecture/</loc>
-         <lastmod>2024-06-02</lastmod>
+         <loc>http://network-docs.shadmanhabib.com/01-overview/network-architecture/</loc>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://network-pi.home/02-raspi-servers/</loc>
-         <lastmod>2024-06-02</lastmod>
+         <loc>http://network-docs.shadmanhabib.com/02-raspi-servers/</loc>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://network-pi.home/02-raspi-servers/backup-pi/</loc>
-         <lastmod>2024-06-02</lastmod>
+         <loc>http://network-docs.shadmanhabib.com/02-raspi-servers/backup-pi/</loc>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://network-pi.home/02-raspi-servers/homeassistant/</loc>
-         <lastmod>2024-06-02</lastmod>
+         <loc>http://network-docs.shadmanhabib.com/02-raspi-servers/homeassistant/</loc>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://network-pi.home/02-raspi-servers/network-pi/</loc>
-         <lastmod>2024-06-02</lastmod>
+         <loc>http://network-docs.shadmanhabib.com/02-raspi-servers/network-pi/</loc>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://network-pi.home/03-ubuntu-server/</loc>
-         <lastmod>2024-06-02</lastmod>
+         <loc>http://network-docs.shadmanhabib.com/03-ubuntu-server/</loc>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://network-pi.home/03-ubuntu-server/data/</loc>
-         <lastmod>2024-06-02</lastmod>
+         <loc>http://network-docs.shadmanhabib.com/03-ubuntu-server/data/</loc>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://network-pi.home/04-containers/</loc>
-         <lastmod>2024-06-02</lastmod>
+         <loc>http://network-docs.shadmanhabib.com/04-containers/</loc>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://network-pi.home/04-containers/jellyfin/</loc>
-         <lastmod>2024-06-02</lastmod>
+         <loc>http://network-docs.shadmanhabib.com/04-containers/jellyfin/</loc>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://network-pi.home/04-containers/motioneye/</loc>
-         <lastmod>2024-06-02</lastmod>
+         <loc>http://network-docs.shadmanhabib.com/04-containers/motioneye/</loc>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://network-pi.home/04-containers/portainer/</loc>
-         <lastmod>2024-06-02</lastmod>
+         <loc>http://network-docs.shadmanhabib.com/04-containers/portainer/</loc>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://network-pi.home/04-containers/syncthing/</loc>
-         <lastmod>2024-06-02</lastmod>
+         <loc>http://network-docs.shadmanhabib.com/04-containers/syncthing/</loc>
+         <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
